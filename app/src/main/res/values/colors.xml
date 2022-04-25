@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CB3066</color>
+    <color name="colorPrimaryDark">#9D3066</color>
+    <color name="colorLightPrimary">#EB3266</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="red">#FF0000</color>
+    <color name="redDark">#B90E0A</color>
+    <color name="green">#00897B</color>
+    <color name="blue">#0083BE</color>
+    <color name="yellow">#FFC107</color>
+    <color name="black">#282828</color>
+    <color name="blackText">#49494B</color>
+    <color name="light_black">#3F3F3F</color>
+    <color name="white">#FFF</color>
+    <color name="gray">#546E7A</color>
+    <color name="purple">#8E44AD</color>
+    <color name="disabled">#A9A9A9</color>
+    <color name="androidBG">#EEE</color>
+    <color name="magentoItemBG">#F4F4F6</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+</resources>
